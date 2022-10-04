@@ -2,5 +2,6 @@
 
 ## MoureDev Community Code Challenge Repositories
 
-<a><img src="[url=https://postimg.cc/w30qjcRQ][img]https://i.postimg.cc/w30qjcRQ/Captura-de-Pantalla-2022-10-04-a-la-s-01-15-26.png[/img][/url]" style="height: 50%; width:50%;"/></a>
+<a><img src="[![javascript.gif](https://i.postimg.cc/J0qyZWwt/javascript.gif)](https://postimg.cc/6485xgpN)" style="height: 50%; width:50%;"/></a>
 
+#### You can review these solved challenges in Javascript, Kotlin and other languages
